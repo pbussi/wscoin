@@ -1,5 +1,5 @@
 ###################
-WS CodeIgniter
+WS COIN
 ###################
 
 Wrapper de diferentes monedas (BTC,LTC, Ethereum, ERC20 Tokens).
